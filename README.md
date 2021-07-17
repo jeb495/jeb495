@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I hope You Enjoy My Side Projects.
+Everything here is functional. Hopefully
 
 
 
