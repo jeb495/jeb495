@@ -1,6 +1,6 @@
 ### Hey 👋
 
-Im doin homebrew and low level programming 
+Im doing homebrew and low level programming 
 
 
 
