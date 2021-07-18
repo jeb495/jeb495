@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I like doing a wide variety of programming stuff, most of it resides here. Most of it is functional, however i cannot guarantee that everything is. 
+I work with C#, C++, and Javascript, focusing mainly on switch homebrew and low level programming. 
 
 
 
