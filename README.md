@@ -1,9 +1,8 @@
 # Hey
 
-Im doing homebrew and some low level programming, with a bit of web development thrown in there from time to time
+I focus mainly on low level programming and some web development.
 
-### Disclamer: 
-Some stuff on my github profile is not owned by me. There is usually credit given but sometimes I am lazy. Most of it is tools and utilities that were not already on github. I have a habit of modifying existing open source software to fit my needs, so some of that is hosted here too. 
+
 
 
 
