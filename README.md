@@ -1,6 +1,6 @@
 # Hey
 
-I focus mainly on low level programming and some web development.
+I focus mainly on low level programming and web development.
 
 
 
