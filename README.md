@@ -1,6 +1,6 @@
-# Hey
+# Hello
 
-I focus, make thing, then rot
+I am making things
 
 
 
